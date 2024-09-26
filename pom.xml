@@ -13,8 +13,6 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.target>23</maven.compiler.target>
         <maven.compiler.source>23</maven.compiler.source>
-
-        <java.version>23</java.version>
     </properties>
 
     <dependencies>
